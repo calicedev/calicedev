@@ -8,6 +8,7 @@
 
 ### Experience
 📜 KAIST MADCAMP(몰입캠프)<br/>
+📜 데이터 감수성 동아리 'sen'<br/>
 
 ### Skills
 <div>
