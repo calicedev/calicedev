@@ -3,13 +3,13 @@
 > # HyeEun Lim (calicedev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 > 
 ### About Me
-🎓 Sookmyung Woman's University, Software major ( 2016.03 ~ )
+🎓 Sookmyung Woman's University, Software major ( 2016.03 ~ )<br/>
 📫 How to reach me: <img src="https://img.shields.io/badge/calicedev@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
 ### Experience
-📜 KAIST MADCAMP(몰입캠프)<br/>
-📜 데이터 감수성 동아리 'sen'<br/>
-📜 SMWU IT 리더십 그룹 'It's U'<br/>
+🏂 KAIST MADCAMP(몰입캠프)<br/>
+🏂 데이터 감수성 동아리 'sen'<br/>
+🏂 SMWU IT 리더십 그룹 'It's U'<br/>
 
 ### Skills
 <div>
