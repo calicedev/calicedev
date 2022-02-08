@@ -1,43 +1,32 @@
-![header](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=header&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&&color=black&height=100&section=header&fontSize=90)
 
+> # HyeEun Lim (calicedev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+> 
+### About Me
+📚 I'm studying **IT Engineering @SMWU, Korea**(Mar.2016 ~)<br/>
+📫 How to reach me: <img src="https://img.shields.io/badge/calicedev@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 
-<div align = "center">
+### Experience
+📜 KAIST MADCAMP(몰입캠프)<br/>
 
-<br/>
-<h3>Joyful Joy 🥳</h3><br/>
-Hello, I'm Juhee (Joy).<br/>
-My goal is to give good influence to society.<br/>
-Have a day full of JOY today.
-
-
-<br/><br/>
- 
-  
-﹏﹏﹏﹏﹏﹏﹏
-
-<br/><br/>
- 
-<h3>💻 Tech Stack 💻</h3>
- 
-<br/>
-
-
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-<img src="https://img.shields.io/badge/SpringBoot-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-
+### Skills
+<div>
+<img src="https://img.shields.io/badge/Java-F46A54?style=flat-square&logo=Java&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px; padding-top : 2px; padding-bottom : 2px;"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Python-FECC00?style=flat-square&logo=Python&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px; padding-top : 2px; padding-bottom : 2px;"/></a>&nbsp;
+</div>
+<div>
+ <img src="https://img.shields.io/badge/SpringFramework-6DB33F?style=flat-square&logo=Spring&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+ <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+ <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+ <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+ <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=Google Colab&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 </div>
 
+
 <br/>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
+![footer](https://capsule-render.vercel.app/api?type=waving&&color=black&height=100&section=footer&fontSize=90)
 
 
 
