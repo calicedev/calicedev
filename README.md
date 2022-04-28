@@ -16,10 +16,12 @@
 <div>
 <img src="https://img.shields.io/badge/Java-F46A54?style=flat-square&logo=Java&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px; padding-top : 2px; padding-bottom : 2px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Python-FECC00?style=flat-square&logo=Python&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px; padding-top : 2px; padding-bottom : 2px;"/></a>&nbsp;
- <img src="https://img.shields.io/badge/Jquery-#0769AD?style=flat-square&logo=Jquery&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px; padding-top : 2px; padding-bottom : 2px;"/></a>&nbsp;
+<img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px; padding-top : 2px; padding-bottom : 2px;"/></a>&nbsp;
+<img src="https://img.shields.io/badge/-C%23-000000?logo=Csharp&style=flat-square" style="height : auto; margin-left : 10px; margin-right : 10px; padding-top : 2px; padding-bottom : 2px;"/></a>&nbsp;
 </div>
 <div>
  <img src="https://img.shields.io/badge/SpringFramework-6DB33F?style=flat-square&logo=Spring&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+ <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
